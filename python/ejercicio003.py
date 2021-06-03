@@ -1,1 +1,2 @@
-#esto es una prueba de git
+#esto es un ejemplo de git
+#esta es mi segunda linea 
